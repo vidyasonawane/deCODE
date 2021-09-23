@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntax on deCODE | Learn to code with Vidya</title>
+    <link>https://vidyasonawane.github.io/deCODE/project/</link>
+    <description>Recent content in Syntax on deCODE | Learn to code with Vidya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://vidyasonawane.github.io/deCODE/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>conditional statements</title>
+      <link>https://vidyasonawane.github.io/deCODE/project/1.conditional-statements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidyasonawane.github.io/deCODE/project/1.conditional-statements/</guid>
+      <description>if statement: if condition: # Statements to execute if condition is trueif-else statement: if condition:# Executes this block if condition is trueelse:# Executes this block if condition is falseif-elif-else statement: if condition:statementelif condition:statement.</description>
+    </item>
+    
+    <item>
+      <title>Functions</title>
+      <link>https://vidyasonawane.github.io/deCODE/project/2.functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidyasonawane.github.io/deCODE/project/2.functions/</guid>
+      <description>creating and calling a function: def function_name():statement/statementsfunction_name()function with arguments and parameters: def function_name(parameters):statement/statementsfunction_name(arguments)return statement: def function_name():statement/statementsreturn expressionvariable = function_name()</description>
+    </item>
+    
+    <item>
+      <title>Input Output</title>
+      <link>https://vidyasonawane.github.io/deCODE/project/5.inputoutput/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidyasonawane.github.io/deCODE/project/5.inputoutput/</guid>
+      <description>input() example:
+num = input(&amp;quot;Enter a number: &amp;quot;)print(&amp;quot;User Entered: &amp;quot;,num)output:
+If user gives the input as 11 then,
+User Entered: 11</description>
+    </item>
+    
+    <item>
+      <title>Loop Control Statements</title>
+      <link>https://vidyasonawane.github.io/deCODE/project/4.loopcontrolstatements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidyasonawane.github.io/deCODE/project/4.loopcontrolstatements/</guid>
+      <description>Break Statement:  Break statement brings control out of the loop. It ends the current loop and jumps to the statement immediately following the loop. example:  for letter in &#39;LearnToCodeWithVidya&#39;:if letter == &#39;a&#39;:breakelse:print(letter)print (&amp;quot;Current Letter :&amp;quot;, letter)print (&amp;quot;Program ends&amp;quot;) output:  LeCurrent Letter : aProgram endsContinue Statement:  Continue statement returns the control to the beginning of the loop.</description>
+    </item>
+    
+    <item>
+      <title>Loops</title>
+      <link>https://vidyasonawane.github.io/deCODE/project/3.loops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidyasonawane.github.io/deCODE/project/3.loops/</guid>
+      <description>While Loop: while expression:statement/statementselse statement with while loops: while condition:# Executes this block till condition is trueelse:# execute these statementsfor in Loop: for iterator_variable in sequence:statement/statementsNested for Loop: for iterator_variable in sequence:for iterator_variable in sequence:statement/statementsNested while Loop: while expression:while expression:statement/statements</description>
+    </item>
+    
+    <item>
+      <title>Operators</title>
+      <link>https://vidyasonawane.github.io/deCODE/project/6.operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vidyasonawane.github.io/deCODE/project/6.operators/</guid>
+      <description>Arithmatic Operators:    Operation Operator Syntax  Description     Addition + a + b  adds two operands   Subtraction - a - b  subtracts two operands   Multiplication * a * b  multiplies two operands   Division (float) / a / b  divides the first operand by the second   Division (floor) // a // b  divides the first operand by the second   Modulus % a % b  returns the remainder   Power ** a ** b  returns first raised to power second    Comparison Operators:    Operation Operator Syntax  Description     Greater than &amp;gt; a &amp;gt; b  True if left operand is greater than the right   Less than &amp;lt; a &amp;lt; b  True if left operand is less than the right   Equal to == a == b  True if both operands are equal   Not equal to !</description>
+    </item>
+    
+  </channel>
+</rss>
